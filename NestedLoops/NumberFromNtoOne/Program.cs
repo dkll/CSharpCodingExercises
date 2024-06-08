@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-
-namespace NestedLoops
+﻿namespace NumberFromNtoOne
 {
     internal class Program
     {
@@ -12,6 +10,7 @@ namespace NestedLoops
             {
                 Console.WriteLine(i);
             }
+
         }
     }
 }
