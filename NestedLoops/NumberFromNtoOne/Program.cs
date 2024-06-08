@@ -1,4 +1,5 @@
-﻿namespace NumberFromNtoOne
+﻿namespace NumberFromNToOne
+
 {
     internal class Program
     {
